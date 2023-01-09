@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firas Yousfi.</h1>
-<h5 align="center">I enjoy problem-solving and I happen to be decent at writing code 🙂. I aim to build cool software with scalability in mind, and to learn something new in every chance I get during the process.</h3>
+<h3 align="center">I enjoy problem-solving and I happen to be decent at writing code 🙂. I aim to build cool software with scalability in mind, and to learn something new in every chance I get during the process.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
