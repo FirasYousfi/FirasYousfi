@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Firas Yousfi.</h1>
-<h4 align="center">I enjoy problem-solving and I happen to be decent at writing code 🙂. I aim to build cool software with scalability in mind, and to learn something new in every chance I get during the process.</h3>
+<h1 align="center">Hi, I'm Firas Yousfi</h1>
+
+<p align="center">
+Software Engineer with 4+ years of experience building scalable cloud services, mainly using Go within a Kubernetes ecosystem. Designed and shipped features used by a wide range of customers at leading European cloud providers.
+<br><br>
+Currently contributing to building the IONOS Cloud.
+<br><br>
+In my free time I enjoy DS &amp; algorithms — I usually post my solutions to the daily LeetCode problem <a href="https://www.leetcode.com/firas5445">here</a>.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -7,9 +14,10 @@
 <a href="https://www.leetcode.com/firas5445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="firas5445" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=firasyousfi&show_icons=true&locale=en&layout=compact" alt="firasyousfi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firasyousfi&" alt="firasyousfi" /></p>
+<h3 align="left">Tech Stack:</h3>
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
